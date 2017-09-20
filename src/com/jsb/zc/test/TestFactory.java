@@ -7,7 +7,6 @@ import com.jsb.zc.entity.Instance_syn;
 import com.jsb.zc.factory.SendMailFactory;
 import com.jsb.zc.factory.SendSmsFactory;
 import com.jsb.zc.factory.SenderFactory;
-import com.jsb.zc.impl.SmsSender;
 import com.jsb.zc.interfaces.Sender;
 
 public class TestFactory {
